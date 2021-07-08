@@ -7,5 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'Hello WORLD, my -app';
-  description = 'Hello world!'
+  description = 'Hello world!';
+  hero = 'Drogfisher';
 }
